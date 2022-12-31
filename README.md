@@ -2,7 +2,7 @@
 ---
 挖个坑给自己
 
-音乐软件 - LMMS
+音乐软件 - Audacity, LMMS, UTAU
 
 建模软件 - Blender
 
