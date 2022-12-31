@@ -10,8 +10,14 @@
 
 暂时想到这么多，以后慢慢补
 
+
+### Group Member
+<a href="https://github.com/SeeChen/"><kbd><img src="https://avatars.githubusercontent.com/u/39422761?v=4" width="75" height="75"/></kbd></a>
+&nbsp;&nbsp;
+<a href="https://github.com/YiYingPiaoPiao"><kbd><img src="https://avatars.githubusercontent.com/u/84587540?v=4" width="75" height="75"/></kbd></a>
 ---
-BiliBili: https://space.bilibili.com/2121055579
+<a href="https://space.bilibili.com/2121055579" target="_blank">![BiliBili](https://img.shields.io/badge/BiliBili-亦影飘飘-FF99CC?style=social&logo=bilibili)</a>
+<a href="https://www.youtube.com/channel/UCxhNghNEiaMfeQyfWRwdo-w" target="_blank">![YouTube](https://img.shields.io/badge/YouTube-亦影飘飘-FF99CC?style=social&logo=youtube)</a>
 
-YouTube ：https://www.youtube.com/channel/UCxhNghNEiaMfeQyfWRwdo-w
-
+## LICENSE
+Apache-2.0 &copy; SeeChen, YiYingPiaoPiao
