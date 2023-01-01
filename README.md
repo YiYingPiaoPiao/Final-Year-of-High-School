@@ -3,6 +3,7 @@
 <a href="https://www.youtube.com/channel/UCxhNghNEiaMfeQyfWRwdo-w" target="_blank">![YouTube](https://img.shields.io/badge/YouTube--FF99CC?style=social&logo=youtube)</a>
 <a href="https://www.facebook.com/profile.php?id=100066671499611" target="_blank">![facebook](https://img.shields.io/badge/Fackbook--FF99CC?style=social&logo=facebook)</a>
 <a href="" target="_blank">![抖音](https://img.shields.io/badge/抖音--FF99CC?style=social&logo=tiktok)</a>
+<a href="https://www.instagram.com/yypp0806/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram--FF99CC?style=social&logo=Instagram)</a>
 
 ## Development Software
 Music: LMMS, Audacity, 袅袅 </br>
